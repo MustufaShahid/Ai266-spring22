@@ -1,7 +1,9 @@
 # Ai266-spring22
-
+<p align="center">
 بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
+  </p> 
+  
 ## Group Members Details: 
 
 | Student Names | StudentID's |
