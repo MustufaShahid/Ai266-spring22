@@ -2,7 +2,7 @@
 
 <p align="center">
    بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-</p>
+
 
 
 ## Group Members Details: 
@@ -14,6 +14,8 @@
 | Fizza Ishaq | 10481 | 
 | Wajid Khan | 62584 | 
 | Saim | 64088 | 
+   
+   </p>
 
 # INTRODUCTION OF GROUP PARTNERS:
 
