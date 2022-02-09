@@ -6,7 +6,6 @@
 
 </p>
 ## Group Members Details: 
-<p align="center">
 | Student Names | StudentID's |
 | --------------- | --------------- |
 | Mustufa Shahid | 64242 | 
@@ -14,7 +13,6 @@
 | Fizza Ishaq | 10481 | 
 | Wajid Khan | 62584 | 
 | Saim | 64088 | 
-   </p>
  
 
 # INTRODUCTION OF GROUP PARTNERS:
