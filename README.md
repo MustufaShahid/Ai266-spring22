@@ -6,7 +6,7 @@
   
 ## Group Members Details: 
 
-| Student Names | Student ID's |
+| MEMBER'S NAMES | MEMBER'S ID's |
 | --------------- | --------------- |
 | Mustufa Shahid | 64242 | 
 | Maryam Naz | 64243 |
