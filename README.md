@@ -18,7 +18,7 @@
 
 **MUSTUFA SHAHID** : My name is mustufa shahid and I'm 21 years old, I'm currently being enrolled into 6th semester of my bachelors degree in computer science from PAF-KIET, I work as a freelancer in some services which includes wordpress cms website customization/management and also as a domain and web hosting provider. I've interest in web technologies and my aim is to become a full stack web developer. <br> **Special mention:** FREELANCER, also can work for free of cost as I'm starving for learning.
 
-**Maryam Naz** :Maryam Naz** :My name is MARYAM NAZ .I am 21 year's old. I am interested in graphics designing.I have done many tasks related to graphic designingTo become a future's best graphic designer in the market انشاء اللہ...
+**Maryam Naz** : My name is MARYAM NAZ .I am 21 year's old. I am interested in graphics designing.I have done many tasks related to graphic designing .To become a future's best graphic designer in the market انشاء اللہ...
 
 **Fizza Ishaq** :
 
@@ -26,5 +26,3 @@
 
 **Muhammad Saim** :
 
-Maryam Naz** :My name is MARYAM NAZ .I am 21 year's old. I am interested in graphics designing . I have done many tasks related to graphic designing
-To become a future's best graphic designer in the market.<br> **Special mention:** became a future best graphics designer انشاء اللہ...
