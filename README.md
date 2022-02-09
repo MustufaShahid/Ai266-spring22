@@ -1,6 +1,6 @@
 # Ai266-spring22
 
-##Group Members Details: 
+## Group Members Details: 
 
 | Column 1 Header | Column 2 Header |
 | --------------- | --------------- |
