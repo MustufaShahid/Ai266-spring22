@@ -19,7 +19,18 @@
 
 **Maryam Naz** :
 
-**Fizza Ishaq** :
+**Fizza Ishaq** :MY NAME IS FIZZA ISHAQ 
+I'M BASKETBALL PLAYER
+EVERYTIME I WANT TO DO SOMETHING CREATIVE
+I'M ALSO AN ARTIST AND DO SPRAY PAINT ART.
+I'M A GAMER
+---------------------------------------------
+SUMMARY :
+BASIC OF AI
+ABOUT QUIZ 
+READ A BOOK IN A WEEK 
+WHY I CHOOSE BSCS??
+IF AI IS ELECTIVE SO I'LL SELECT THIS COURSE NOR NOT ??
 
 **WAJID KHAN** : My name is abdul wajid khan my age is 22 and its my 6 semester doing bachelors in computer science my areas of interest are programming and networking apart from my studies i workout and dedicated towards my future and have some goals and want them to achieve and make my parents proud
 
