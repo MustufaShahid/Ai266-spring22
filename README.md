@@ -2,8 +2,9 @@
 
 ## Group Members Details: 
 
-| Column 1 Header | Column 2 Header |
+| Student Names | StudentID's |
 | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | 
-| Row 2 Column 1 | Row 2 Column 2 |
-| Row 3 Column 1 | Row 3 Column 2 | 
+| Mustufa Shahid | 64242 | 
+| Maryam Naz | 64243 |
+| Fizza Ishaq | 10481 | 
+| Wajid Khan | 62584 | 
