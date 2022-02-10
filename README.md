@@ -24,5 +24,5 @@
 
 4. **WAJID KHAN** : My name is abdul wajid khan my age is 22 and its my 6 semester doing bachelors in computer science my areas of interest are programming and networking apart from my studies i workout and dedicated towards my future and have some goals and want them to achieve and make my parents proud
 
-5. **Muhammad Saim** : My name is Mohammad Saim Younus. I am 22 years old and student of 6th Semester. My main area of interests are Web / Mobile App Development, Networking and Game Development. I always try my best so that I can achieve my goals that I have set for my future **Sepcial Mention** I am a good learner and want to learn new technologies as learning is the key to success.
+5. **Muhammad Saim** : My name is Mohammad Saim. I am 22 years old and student of 7th Semester. My main area of interests are Web / Mobile App Development, Networking and Game Development. I always try my best so that I can achieve my goals that I have set for my future **Special Mention** I am a good learner and want to learn new technologies as learning is the key to success.
 
