@@ -12,7 +12,7 @@
 | Maryam Naz | 64243 |
 | Fizza Ishaq | 10481 | 
 | Wajid Khan | 62584 | 
-| Saim | 64088 | 
+| Muhammad Saim | 64088 | 
 
 # INTRODUCTION OF GROUP PARTNERS:
 
