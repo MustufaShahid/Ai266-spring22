@@ -13,7 +13,9 @@ WAJID KHAN:
 Selecting naive_bayes Machine Learning Model.
 
 PROBLEM THAT WE FACED:
+
 1.WAJID KHAN:
+
  It is little bit difficult  to implement naives_bayes with data cleaning.It take time to clean the empty rows and column .
  
 WAJID KHAN(NAIYES_BAYES)
