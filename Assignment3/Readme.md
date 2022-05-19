@@ -30,3 +30,7 @@ Took a while to clean the Data and to calculate accuracy.
 I solved this  by Decreasing the number of features in the datasets.
 
 ![Saim-Perceptron](https://user-images.githubusercontent.com/61631114/169375574-6b99fc7c-447e-4c79-b385-51b7bb6653f2.PNG)
+
+##maryam naz
+It classifies the data point on how its neighbor is classified grounded on the similarity measure of the before stored data points. It take alot of time to train a model.
+!maryam_[knn](https://user-images.githubusercontent.com/74488616/169393060-ca114519-e5f8-471f-b6ca-02a31252c615.PNG)
