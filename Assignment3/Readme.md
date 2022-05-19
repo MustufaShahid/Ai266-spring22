@@ -20,3 +20,11 @@ PROBLEM THAT WE FACED:
  
 WAJID KHAN(NAIYES_BAYES)
 ![Screenshot (340)](https://user-images.githubusercontent.com/64194854/169353287-37899617-ee97-4d40-ba42-8a2c8010047a.png)
+
+#Muhammad Saim:
+I have worked on Perceptron Model.
+
+#Problem:
+Took a while to clean the Data and to calculate accuracy.
+#Solution:
+I solved this  by Decreasing the number of features in the datasets.
