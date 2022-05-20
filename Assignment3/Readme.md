@@ -32,11 +32,11 @@ I solved this  by Decreasing the number of features in the datasets.
 ![kaggle](https://user-images.githubusercontent.com/61631114/169543646-e3f5810e-fbe7-4998-bc5c-aa84da9e9e9d.PNG)
 
 
-##maryam naz
+## maryam naz
 It classifies the data point on how its neighbor is classified grounded on the similarity measure of the before stored data points. It take alot of time to train a model.
 ![knn](https://user-images.githubusercontent.com/74488616/169393060-ca114519-e5f8-471f-b6ca-02a31252c615.PNG)
 
-##Mustufa Shahid
+## Mustufa Shahid
 
 I've chosen SVM machine learning model in this assignment.
 
