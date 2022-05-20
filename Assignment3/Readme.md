@@ -28,9 +28,8 @@ I have worked on Perceptron Model.
 Took a while to clean the Data and to calculate accuracy.
 ## Solution:
 I solved this  by Decreasing the number of features in the datasets.
-
-![Saim-Perceptron](https://user-images.githubusercontent.com/61631114/169375574-6b99fc7c-447e-4c79-b385-51b7bb6653f2.PNG)
-![image](https://user-images.githubusercontent.com/61631114/169537431-fcc92b21-8d88-4dd2-8d56-575228bb7860.png)
+![Perceptron-1](https://user-images.githubusercontent.com/61631114/169543625-7dbbce29-bb8d-4db8-87d7-64d740ddd1df.PNG)
+![kaggle](https://user-images.githubusercontent.com/61631114/169543646-e3f5810e-fbe7-4998-bc5c-aa84da9e9e9d.PNG)
 
 
 ##maryam naz
