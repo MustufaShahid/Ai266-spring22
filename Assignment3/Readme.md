@@ -43,3 +43,4 @@ I've chosen SVM machine learning model in this assignment.
 Problem that I faced: For the new user,kaggle is difficult to use.So I faced some difficulty in using kaggle but later on I try to work on kaggle and submit prediction.
 
 Screenshot is attached: 
+![SVM](https://raw.githubusercontent.com/MustufaShahid/Ai266-spring22/main/Assignment2/submission.jpg)
