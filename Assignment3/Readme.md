@@ -44,3 +44,16 @@ Problem that I faced: For the new user,kaggle is difficult to use.So I faced som
 
 Screenshot is attached: 
 ![SVM](https://raw.githubusercontent.com/MustufaShahid/Ai266-spring22/main/Assignment2/submission.jpg)
+
+
+##fizza ishaq
+i've chosen Naive Bayes - Lidstone Smoothing
+screen shot
+https://www.kaggle.com/competitions/tabular-playground-series-may-2022/leaderboard
+
+
+
+
+
+
+
