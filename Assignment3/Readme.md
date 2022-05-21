@@ -49,11 +49,7 @@ Screenshot is attached:
 ##fizza ishaq
 i've chosen Naive Bayes - Lidstone Smoothing
 screen shot
-https://www.kaggle.com/competitions/tabular-playground-series-may-2022/leaderboard
-
-
-
-
+![Screen Shot 2022-05-21 at 10 48 31 PM](https://user-images.githubusercontent.com/88332175/169664609-a0955e56-e822-4b8c-a205-309582c3792e.png)
 
 
 
