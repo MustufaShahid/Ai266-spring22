@@ -29,24 +29,6 @@
 	print(X.head(2))
 	
 	print(y.value_counts())
-	
-	from sklearn import svm
-	from sklearn.model_selection import cross_val_score
-	
-	clf = svm.SVC(kernel='linear', C=1, random_state=42)
-	clf.fit(X, y)
-	
-	print(clf.score(X, y))
-	scores = cross_val_score(clf, X, y, cv=5)
-	
-	print(scores)
-	
-	from collections import Counter
-	import numpy as np
-	import matplotlib.pyplot as plt
-	def euclidean_dis(x1, x2):
-	return np.sqrt(np.sum((x1 - x2) ** 2))
-	
 	class KNN:
 	def __init__(self, k=3):
 	self.k = k
