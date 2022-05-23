@@ -55,6 +55,5 @@ Sensitive to noisy data, missing values and outliers.
 I Worked on Perceptron Model. Following is my Best Accuracy after applying data cleaning and changing some values in the code.
 ![Perceptron-3](https://user-images.githubusercontent.com/61631114/169801169-cb1e9667-bfdf-4e40-a630-5d3241149c46.PNG)
 ![kaagle-percep 1](https://user-images.githubusercontent.com/61631114/169801212-770eb0e1-dc99-422a-93c0-f16935fd88ed.PNG)
-
 ## Problem and Solution:
-Took about 3-5 minutes for finding the accuracy of the model. I solved it by applying Data cleaning conecept.
+Took about 3-5 minutes for finding the accuracy of the model. After applying Data cleaning conecept and removing some unwanted data from the datsets the accuracy improved and took about 30 - 40 sec MAX to calculate accuracy.
