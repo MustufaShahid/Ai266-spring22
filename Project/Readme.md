@@ -57,3 +57,12 @@ I Worked on Perceptron Model. Following is my Best Accuracy after applying data 
 ![kaagle-percep 1](https://user-images.githubusercontent.com/61631114/169801212-770eb0e1-dc99-422a-93c0-f16935fd88ed.PNG)
 ## Problem and Solution:
 Took about 3-5 minutes for finding the accuracy of the model. After applying Data cleaning conecept and removing some unwanted data from the datsets the accuracy improved and took about 30 - 40 sec MAX to calculate accuracy.
+
+## Mustufa Shahid
+
+I've chosen NaiveByes machine learning model in this assignment.
+
+Problem that I faced: For the new user,kaggle is difficult to use.So I faced some difficulty in using kaggle but later on I try to work on kaggle and submit prediction.
+
+Screenshot is attached: 
+![NB](https://raw.githubusercontent.com/MustufaShahid/Ai266-spring22/main/Assignment2/submission.jpg)
