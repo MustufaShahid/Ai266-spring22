@@ -86,5 +86,5 @@ predictionOnTest = perceptron.predict(predT)
 newCSVTest['target'] = predictionOnTest
 
 newCSVTest.head()
-newCSVTest.to_csv('MustufaShahid.csv', index=False)
+newCSVTest.to_csv('submission.csv', index=False)
 
