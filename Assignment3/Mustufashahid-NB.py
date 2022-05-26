@@ -75,4 +75,16 @@ def main():
 
 if __name__ == "__main__":
   main()
+  
+  newCSVTest
+
+predT = test.drop(columns=['id'])
+predT.head()
+
+predictionOnTest = perceptron.predict(predT)
+
+newCSVTest['target'] = predictionOnTest
+
+newCSVTest.head()
+newCSVTest.to_csv('MustufaShahid.csv', index=False)
 
