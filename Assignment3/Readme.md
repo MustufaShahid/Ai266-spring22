@@ -46,7 +46,7 @@ Screenshot is attached:
 ![NB](https://raw.githubusercontent.com/MustufaShahid/Ai266-spring22/main/Assignment2/submission.jpg)
 
 
-##fizza ishaq
+## fizza ishaq
 i've chosen Naive Bayes - Lidstone Smoothing
 screen shot
 ![Screen Shot 2022-05-21 at 10 48 31 PM](https://user-images.githubusercontent.com/88332175/169664609-a0955e56-e822-4b8c-a205-309582c3792e.png)
